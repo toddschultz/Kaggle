@@ -3,4 +3,4 @@ Kaggle
 
 Kagglecompetitions
 
-This directory contain example scripts for Kaggle competitions. 
+This directory contains example scripts for Kaggle competitions. 
